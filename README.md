@@ -15,7 +15,7 @@ Finally, the program runs in the console taking the input from the users.
 <img src="https://github.com/A-Kannika/v1/blob/main/images/UML/UML_cal2_okay.png?raw=true" width="700" height="500"/>&nbsp;&nbsp;
 </p>
 
-## The result of the Multi-Function Calculator Program version 3: 
+## The result of the Multi-Function Calculator Program version 2: 
 
 <p align="center">
 <img src="https://github.com/A-Kannika/v1/blob/main/images/cover/cal2_cover.png?raw=true" width="350" height="400"/>&nbsp;&nbsp;
